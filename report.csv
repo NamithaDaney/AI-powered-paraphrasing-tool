@@ -1,0 +1,4 @@
+Row ID,Original Text,Paraphrased Text,Semantic Similarity,Estimated Originality,BLEU Score
+1,Artificial intelligence is rapidly transforming global industry standards.,The rate at which artificial intelligence is changing global industry standards is impressive.,0.8904,0.4286,0.0000
+2,Data scientists must adjust complex algorithms to optimize accuracy benchmarks.,The optimization of accurate benchmarks requires data scientists to modify complex algorithms.,0.9262,0.6364,0.0000
+3,Failing to monitor systematic bias introduces massive compliance hazards issues.,The non-cureness of systematic bias entails substantial compliance risks.,0.8016,0.7000,0.0000
